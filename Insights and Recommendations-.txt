@@ -1,0 +1,11 @@
+Insights and Recommendations:-
+
+Social Media promotion is driving 30% of our traffic but conversion rate is ~6% the lowest.
+Spend less on the Social Media marketing.
+
+2. Email marketing conversion rate is 13%, so focus more on the email marketing.
+
+3. Checkout flow is very good, customer interaction is frictionless, so make no changes to the Checkout flow.
+
+4. Our Average Order Value is ~$115.
+Set a strict Customer Acquistion Cost limit.
